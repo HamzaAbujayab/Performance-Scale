@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/activity_card.xml" value="0.11" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/bg_et.xml" value="0.11" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/bg_et2.xml" value="0.11" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.1455" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/ic_add_student.xml" value="0.11" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/ic_check.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/ic_filter2.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/shap_activity_select_school.xml" value="0.1255" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/shap_btn_industrial.xml" value="0.1255" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/shap_btn_literary.xml" value="0.1255" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/shap_btn_scientific.xml" value="0.1255" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/shap_button_reset.xml" value="0.1195" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/shap_button_respond.xml" value="0.127" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/shap_button_save_changes.xml" value="0.1185" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/shap_button_send.xml" value="0.1085" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/shap_edittext_add_comments.xml" value="0.127" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/shap_edittext_send_massege.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/shap_icon_all_subject.xml" value="0.1185" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/drawable/shap_tv_upload_video.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_add_student.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_add_student_marks.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_all_subjects_h.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_comments.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_comments_h.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_create_topic_h.xml" value="0.18885869565217392" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_exams.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_filter_h.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_first_year.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_five_year.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_four_year.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_home.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_industrial_section.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_literary_section.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_login.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_maths.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_maths_group_h.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_maths_group_ministry_h.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_maths_h.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_new_exam.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_personal_info.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_quiz.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_result.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_scientific_section.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_second_year.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_see_all_h.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_select_department_h.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_select_subject_h.xml" value="0.24066390041493776" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_send_message_h.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_send_message_ministry_h.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_splash.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_start_quiz.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_success_assessment.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_third_year.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/activity_time_for_quiz.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/bottom_add_new_q.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/bottom_filter.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/cstom_add_q.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/cstom_item_all_subjects.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/cstom_item_comments.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/custom_card_see_all.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/custom_item_question.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/custom_item_quiz.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/custom_item_quiz_details.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/custom_item_quiz_question.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/custom_item_see_all.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/custom_item_select_subject.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/custom_item_student.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/fragment_exams.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/fragment_student.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Performance Scale/app/src/main/res/layout/list_item.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/hp/Desktop/Performance Scale/app/src/main/res/layout/activity_add_student.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/hp/Desktop/Performance Scale/app/src/main/res/layout/activity_five_year.xml" value="0.12447916666666667" />
+        <entry key="..\:/Users/hp/Desktop/Performance Scale/app/src/main/res/layout/activity_personal_info.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/hp/Desktop/Performance Scale/app/src/main/res/layout/activity_select_subject_h.xml" value="0.22" />
+        <entry key="..\:/Users/hp/Desktop/Performance Scale/app/src/main/res/layout/fragment_student.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.devsaleh.performancescale">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PerformanceScale"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".Activity.SeeAll_H"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.SendMessageMinistry_H"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.CreateTopic_H"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.MathsGroupMinistry_H"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Filter_H"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.AllSubjects_H"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.SelectDepartment_H"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.SendMessage_H"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Comments_H"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.MathsGroup_H"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.selectSubject_H"
+            android:exported="false" />
+        <activity android:name=".Activity.resultStudent" />
+        <activity android:name=".Activity.startQuiz" />
+        <activity android:name=".Activity.addStudentMarks" />
+        <activity android:name=".Activity.newExam" />
+        <activity android:name=".Activity.exams" />
+        <activity android:name=".Activity.result" />
+        <activity android:name=".Activity.addStudent" />
+        <activity android:name=".Activity.home" />
+        <activity android:name=".Activity.successAssessment" />
+        <activity android:name=".Activity.quiz" />
+        <activity android:name=".Activity.timeForQuiz" />
+        <activity android:name=".Activity.IndustrialSection" />
+        <activity android:name=".Activity.literarySection" />
+        <activity android:name=".Activity.scientificSection" />
+        <activity android:name=".Activity.fiveYear" />
+        <activity android:name=".Activity.fourYear" />
+        <activity android:name=".Activity.thirdYear" />
+        <activity android:name=".Activity.secondYear" />
+        <activity android:name=".Activity.firstYear" />
+        <activity android:name=".Activity.personalInfo" />
+        <activity android:name=".Activity.login" />
+        <activity
+            android:name=".Activity.splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

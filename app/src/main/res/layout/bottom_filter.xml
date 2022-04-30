@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottom_sheet_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/btn5"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="@dimen/_3sdp"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/_8sdp"
+        android:background="@color/red1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/_4sdp"
+        android:text="Filter"
+        android:textColor="@color/red1"
+        android:textSize="@dimen/_20ssp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_12sdp"
+        android:layout_marginTop="@dimen/_14sdp"
+        android:layout_marginBottom="@dimen/_2sdp"
+        android:drawableStart="@drawable/ic_school2"
+        android:drawablePadding="@dimen/_6sdp"
+        android:drawableTint="@color/black"
+        android:text="Specialization  *"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_15ssp" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_24sdp"
+        android:layout_marginVertical="@dimen/_4sdp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/bottom_filter_rb_scientific"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="scientific"
+            android:textColor="@color/black" />
+
+        <RadioButton
+            android:id="@+id/bottom_filter_rb_literary"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="literary"
+            android:textColor="@color/black" />
+
+        <RadioButton
+            android:id="@+id/bottom_filter_rb_industrial"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="industrial"
+            android:textColor="@color/black" />
+
+    </RadioGroup>
+
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_2sdp"
+        android:layout_marginHorizontal="@dimen/_12sdp"
+        android:background="#EFEFEF" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_24sdp"
+        android:layout_marginVertical="@dimen/_4sdp"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/bottom_filter_rb_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Student in the right direction"
+            android:textColor="@color/black" />
+
+        <RadioButton
+            android:id="@+id/bottom_filter_rb_false"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Student in the false direction"
+            android:textColor="@color/black" />
+
+
+    </RadioGroup>
+
+
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_2sdp"
+        android:layout_marginHorizontal="@dimen/_12sdp"
+        android:background="#EFEFEF" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_12sdp"
+        android:layout_marginTop="@dimen/_14sdp"
+        android:layout_marginBottom="@dimen/_2sdp"
+        android:drawableStart="@drawable/ic_gender2"
+        android:drawablePadding="@dimen/_6sdp"
+        android:drawableTint="@color/black"
+        android:text="Gender *"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_15ssp" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_24sdp"
+        android:layout_marginVertical="@dimen/_4sdp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/bottom_filter_rb_male"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/_24sdp"
+            android:drawableEnd="@drawable/ic_male"
+            android:drawablePadding="@dimen/_6sdp"
+            android:text="Male"
+            android:textColor="@color/black" />
+
+        <RadioButton
+            android:id="@+id/bottom_filter_rb_female"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/_24sdp"
+            android:drawableEnd="@drawable/ic_female"
+            android:drawablePadding="@dimen/_6sdp"
+            android:text="Female"
+            android:textColor="@color/black" />
+
+
+    </RadioGroup>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginVertical="@dimen/_12sdp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:id="@+id/bottom_filter_btn_rest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="@dimen/_12sdp"
+            android:layout_marginVertical="@dimen/_4sdp"
+            android:layout_weight="1"
+            android:background="@drawable/btn2"
+            android:padding="@dimen/_8sdp"
+            android:paddingVertical="@dimen/_4sdp">
+
+            <TextView
+                android:id="@+id/language_tv_ar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="RESET"
+                android:textAllCaps="false"
+                android:textColor="@color/red1"
+                android:textSize="@dimen/_14ssp" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/bottom_filter_btn_save_change"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="@dimen/_12sdp"
+            android:layout_marginVertical="@dimen/_4sdp"
+            android:layout_weight="1"
+            android:background="@drawable/btn"
+            android:padding="@dimen/_8sdp"
+            android:paddingVertical="@dimen/_4sdp">
+
+            <TextView
+                android:id="@+id/language_tsdghv_ar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="SAVE CHANGES"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_14ssp" />
+        </FrameLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
